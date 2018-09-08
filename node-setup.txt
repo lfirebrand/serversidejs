@@ -1,0 +1,7 @@
+1. What is npm and what does it do?
+
+npm is a package manager that easily allows you to install packages — or sets of files that can be incorporated into an application. Packages are building blocks of open-source code that add functionality and different features to applications. 
+
+2. What kind of information does package.json hold?
+
+package.json files communicate with npm about how an application is structured. The information contained in a package.json file includes a description, author, name, version, keywords, any linked git repots, license (if applicable), as well as dependencies and associate JS scripts. The dependencies value specifies other modules that a given module require to work (i.e. other modules that module is dependent on).
